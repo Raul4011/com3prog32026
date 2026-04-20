@@ -14,5 +14,8 @@ body {
 .footer {
     background-color: lightblue;
 }
-
+h1 {
+    color: blue;
+    text-shadow: 2px 4px 4px black;
+}
 
